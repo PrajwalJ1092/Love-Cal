@@ -1,0 +1,103 @@
+body{
+    
+}
+.par{
+    font-size: 40px;
+    margin-left: 5.2rem;
+    color: rgb(217, 7, 250);
+}
+
+
+.main{
+       height: 580px;
+       width: 400px;
+       background-image: url(https://4kwallpapers.com/images/wallpapers/couple-romantic-lovers-cave-sci-fi-aesthetic-1284x2778-1454.jpg) ;
+       border-radius: 20px;
+       background-size: cover;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    
+    overflow: unset;
+    padding: 40p;   
+    position: absolute;
+    left: 37%;
+    top: 6rem;
+   
+}
+.lu{
+   margin-left: 5rem;
+}
+
+
+
+.Bname{
+    font-size: 25px;
+    border-radius: 10px;
+    color: rgb(70, 28, 75);
+    background: transparent;
+    margin-left: 30px;
+    text-shadow: 5px 5px 5px rgb(214, 1, 26);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-weight: 500; */
+    font-style: italic;
+
+}
+.Gname{
+    font-size: 25px;
+    border-radius: 10px;
+    color:   rgb(70, 28, 75);
+    background: transparent;
+    margin-left: 30px;
+    text-shadow: 5px 5px 5px rgb(214, 1, 26);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.6;
+  }
+  h1{
+    margin-left: 200;
+  }
+
+ #love{
+    font-size: 25px;
+    border-radius: 10px;
+    /* position: absolute; */
+    /* top: 12rem; */
+    margin-left: 140px;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: rgb(233, 78, 104);
+ }
+ p{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    box-shadow: 10px solid black;
+    margin-left:90px;
+ }
+ #res{
+    position: absolute;
+    top: 23rem;
+    color: rgb(217, 0, 255);
+    /* right: 10rem; */
+    text-shadow: 3px 3px rgb(232, 190, 235);
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+ }
+
+ .hor.hover{
+   color: rgb(240, 2, 2);
+ }
+ #heart{
+    position: relative;
+    left: 11rem;
+ }
